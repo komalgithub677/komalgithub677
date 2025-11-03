@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Komal Narawade</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.onrender.com?font=Fira+Code&size=20&color=00FF00&center=true&vCenter=true&width=500&lines=Final-Year+Computer+Engineering+Student;AI+%26+Full+Stack+Developer;Passionate+about+Machine+Learning+%26+Innovation;Graduating+in+2026" alt="Typing Animation">
+  <img src="https://readme-typing-svg.onrender.com?font=Fira+Code&size=20&color=00FF00&center=true&vCenter=true&width=500&lines=Final-Year+Computer+Engineering+Student;AI+%26+AI+Full+Stack+Developer;Passionate+%26+Innovation;Graduating+in+2026" alt="Typing Animation">
 </p>
 
 <p align="center">
