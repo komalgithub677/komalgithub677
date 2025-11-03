@@ -77,13 +77,7 @@ AI-powered mock interview platform with real-time performance analysis.
 ---
 
 ### 🎨 Creative Portfolio
-<details>
-<summary>Click to expand 🎨</summary>
 
-Explore my creative side at [**KalaVaniStudio**](https://kalavanistudio.netlify.app/) — blending **technology, design, and motivation** through Canva art, AI poetry, and digital storytelling.  
-🏆 *3rd place in Internshala Clubs Content Creation Contest (Dec 2024)*  
-
-</details>
 
 </details>
 
