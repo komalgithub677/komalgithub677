@@ -40,7 +40,7 @@
 Interactive coding and leaderboard platform for developers to learn, compete, and track progress.  
 **Tech Stack:** React 18 + Vite, Node.js + Express, MongoDB, Tailwind CSS  
 **Features:** Real-time leaderboard, user XP tracking, coding challenges, friend filters, and multi-language learning support  
-[🔗 Demo](https://sololearn-clone.web.app/) | [💻 Repo](https://github.com/komalgithub677/Sololearn-Clone)
+
 
 ---
 
@@ -48,7 +48,7 @@ Interactive coding and leaderboard platform for developers to learn, compete, an
 Personalized AI-powered learning assistant that adapts to each learner’s pace and interests.  
 **Tech Stack:** React, Node.js, Express, MongoDB, OpenAI API, Tailwind CSS  
 **Features:** Adaptive quizzes, progress tracking, voice-enabled tutoring, course recommendations, and AI-based Q&A  
-[🔗 Demo](https://ai-tutor-learning.web.app/) | [💻 Repo](https://github.com/komalgithub677/AI-Tutor-Learning)
+
 
 ---
 
@@ -56,7 +56,7 @@ Personalized AI-powered learning assistant that adapts to each learner’s pace 
 Real-time weather forecasting with dynamic UI and location-based updates.  
 **Tech Stack:** HTML, CSS, JavaScript, OpenWeather API, Bootstrap  
 **Features:** Live updates, 5-day forecasts, location auto-detection, and responsive design  
-[🔗 Demo](https://komalgithub677.github.io/SmartWeatherApp/) | [💻 Repo](https://github.com/komalgithub677/SmartWeatherApp)
+
 
 ---
 
@@ -64,7 +64,7 @@ Real-time weather forecasting with dynamic UI and location-based updates.
 Conversational AI assistant powered by OpenAI API for realistic, context-aware chats.  
 **Tech Stack:** React, Node.js, Express, OpenAI API, Tailwind CSS  
 **Features:** Multi-turn chat, chat history, custom prompts, and responsive interface  
-[🔗 Demo](https://chatgpt-ai-clone.web.app/) | [💻 Repo](https://github.com/komalgithub677/ChatGPT-AI-Clone)
+
 
 ---
 
@@ -72,7 +72,7 @@ Conversational AI assistant powered by OpenAI API for realistic, context-aware c
 AI-powered mock interview platform with real-time performance analysis.  
 **Tech Stack:** Python, Streamlit, Gemini API, MongoDB, Flask  
 **Features:** AI-driven question generation, voice-based responses, feedback scoring, and analytics dashboard  
-[🔗 Demo](https://ai-mock-interviewer.streamlit.app/) | [💻 Repo](https://github.com/komalgithub677/AI-Mock-Interviewer)
+
 
 ---
 
