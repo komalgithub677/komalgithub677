@@ -22,9 +22,9 @@
 
 🎓 Final-Year Computer Engineering Student (Graduating 2026)
 
-💻 Passionate about Full Stack Development and Innovative Solutions
+💻 Passionate about Full Stack Development,Problem Solving  and Innovative Solutions
 
-⚙️ Skilled in Java, SQL, HTML, CSS, JavaScript, API Integration, React, MongoDB, Node.js, Express, and Bootstrap
+⚙️ Skilled in Java,DSA, SQL, HTML, CSS, JavaScript, API Integration, React, MongoDB, Node.js, Express, and Bootstrap
 
 🌱 Seeking opportunities as a Freelance Developer to build impactful and scalable web applications 
 
