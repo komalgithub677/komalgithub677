@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-🚀 About Me
+🚀 About Section
 
 🎓 Final-Year Computer Engineering Student (Graduating 2026)
 
