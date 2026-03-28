@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/komalgithub677/komalgithub677/main/assets/ai-agent-banner.gif" alt="AI Agent Development Banner" width="100%">
 </p>
 
-<h1 align="center">👋 Hi, I'm Komal Narawade</h1> g
+<h1 align="center">👋 Hi, I'm Komal Narawade</h1> 
 
 <p align="center">
   <img src="https://readme-typing-svg.onrender.com?font=Fira+Code&size=20&color=00FF00&center=true&vCenter=true&width=600&lines=Final-Year+Computer+Engineering+Student;AI+%26+Full+Stack+Developer;Data+Analytics+Enthusiast;Passionate+about+Technology+%26+Innovation;Graduating+in+2026" alt="Typing Animation">
