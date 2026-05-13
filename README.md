@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72D&center=true&vCenter=true&width=900&lines=Final+Year+Computer+Engineering+Student;Java+Full+Stack+Developer+💻;React+%7C+Node.js+%7C+MongoDB+Developer;Passionate+About+AI+%26+Modern+Web+Apps;Building+Projects+and+Learning+Everyday+🚀;Future+Software+Engineer+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72D&center=true&vCenter=true&width=900&lines=Final+Year+Computer+Engineering+Student;Java+Full+Stack+Developer+💻;React+%7C+SpringBoot+%7C+MySQL+Developer;Passionate+About+AI+%26+Modern+Web+Apps;Building+Projects+and+Learning+Everyday+🚀;Future+Software+Engineer+✨" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 
 🎓 Final Year Computer Engineering Student (2026 Graduate)  
 💻 Passionate Java Full Stack Developer and React Enthusiast  
-⚡ Skilled in Java, JDBC, Servlets, JSP, React, Node.js, MongoDB, and MySQL  
+⚡ Skilled in Java, JDBC, Servlets, JSP, React, Spring Boot, Hibernate, MongoDB, and MySQL  
 📊 Interested in Data Analytics using SQL, Power BI, and Excel  
 🤖 Exploring AI-powered applications and modern frontend technologies  
 🌱 Currently improving Full Stack Development and problem-solving skills  
@@ -43,8 +43,9 @@
 ```diff
 + Advanced React JS
 + Form Handling & Event Handling
-+ Spring Boot
-+ REST API Development
++ Spring Boot REST APIs
++ Hibernate ORM
++ JWT Authentication
 + MongoDB Integration
 + Full Stack Project Development
 + Tailwind CSS
@@ -86,6 +87,10 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
 ---
 
@@ -151,9 +156,10 @@ AI-powered interview preparation platform.
 - Voice Response Handling
 - Performance Dashboard
 - AI Feedback System
+- Real-Time Interview Experience
 
 ### 🛠️ Tech Stack
-`Python` `Flask` `Gemini API` `MongoDB`
+`Java` `Spring Boot` `Hibernate` `React` `MySQL` `JWT` `REST API`
 
 ---
 
@@ -167,9 +173,10 @@ AI-based platform that helps users generate innovative ideas, project concepts, 
 - Real-time Recommendations
 - Project Planning Assistance
 - Dynamic User Dashboard
+- Authentication & Authorization
 
 ### 🛠️ Tech Stack
-`React` `Node.js` `Express` `MongoDB` `OpenAI API`
+`Java` `Spring Boot` `Hibernate` `React` `MySQL` `REST API` `JWT`
 
 ---
 
@@ -203,7 +210,7 @@ Secure authentication and authorization system with role-based permissions.
 - Secure APIs
 
 ### 🛠️ Tech Stack
-`React` `Node.js` `Express` `MongoDB` `JWT`
+`Java` `Spring Boot` `Hibernate` `React` `MySQL` `JWT` `REST API`
 
 ---
 
@@ -262,6 +269,8 @@ Responsive real-time weather application.
 - Dynamic Rendering
 - Git & GitHub Workflow
 - README Customization
+- Spring Boot Basics
+- REST API Development
 
 ---
 
