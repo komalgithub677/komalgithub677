@@ -1,159 +1,204 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/komalgithub677/komalgithub677/main/assets/ai-agent-banner.gif" alt="AI Agent Development Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/komalgithub677/komalgithub677/main/assets/ai-agent-banner.gif" width="100%">
 </p>
 
-<h1 align="center">👋 Hi, I'm Komal Narawade</h1> 
+<h1 align="center">✨ Hi 👋, I'm Komal Narawade ✨</h1>
+
+<h3 align="center">
+🚀 AI Engineer | Full Stack Developer | Data Analytics Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.onrender.com?font=Fira+Code&size=20&color=00FF00&center=true&vCenter=true&width=600&lines=Final-Year+Computer+Engineering+Student;AI+%26+Full+Stack+Developer;Data+Analytics+Enthusiast;Passionate+about+Technology+%26+Innovation;Graduating+in+2026" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72D&center=true&vCenter=true&width=800&lines=Final+Year+Computer+Engineering+Student;React+%7C+Node.js+%7C+MongoDB+Developer;Building+AI+Powered+Applications;Learning+Something+New+Everyday+🚀;Future+Software+Engineer+💻" />
 </p>
 
+---
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/komal-narawade-885720273/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:knarawade4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.hackerrank.com/profile/knarawade4">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=komalgithub677&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  
+  <img src="https://img.shields.io/github/followers/komalgithub677?style=for-the-badge&color=orange" />
+  
+  <img src="https://img.shields.io/github/stars/komalgithub677?style=for-the-badge&color=yellow" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 Final-Year Computer Engineering Student (Graduating 2026)  
-💻 AI + Full Stack Developer with strong interest in Data Analytics  
-📊 Skilled in SQL, Power BI, Excel, and building analytical dashboards  
-⚙️ Experienced in React, Node.js, MongoDB, and API integrations  
-🧠 Strong foundation in DSA, Problem Solving, and System Design basics  
-🌱 Actively seeking opportunities as a Developer / Data Analyst Intern  
+🎓 Final Year Computer Engineering Student  
+💻 Passionate about AI, Full Stack Development & Data Analytics  
+🌱 Currently learning React deeply and building real-world projects  
+🔥 Solved DSA and SQL problems regularly  
+📊 Building dashboards using Power BI and Excel  
+⚡ Interested in AI Agents, System Design & Modern Web Development  
+
+---
+
+# 🧠 Currently Learning
+
+```diff
++ React JS Advanced Concepts
++ Form Handling
++ Event Handling
++ useEffect Hook
++ API Integration
++ Tailwind CSS
++ Node.js Backend
+```
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+## 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
+
+## 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
+
+## ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+## 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</div>
 
 ---
 
 # 🔥 Featured Projects
 
-<details>
-<summary>Click to expand 🔥</summary>
+## 🧑‍💻 SoloLearn Clone
+🚀 Interactive coding and leaderboard platform
+
+### Features
+- XP Tracking
+- Leaderboards
+- Coding Challenges
+- Authentication
+- Course Player
+- Assessment Recorder
+
+### Tech Stack
+`React` `Node.js` `MongoDB` `Tailwind CSS`
 
 ---
 
-### 🧑‍💻 SoloLearn Clone
-Interactive coding and leaderboard platform for developers.  
-**Tech Stack:** React 18 + Vite, Node.js + Express, MongoDB, Tailwind CSS  
-**Features:** Real-time leaderboard, XP tracking, coding challenges, multi-language learning support  
+## 🤖 AI Mock Interviewer
+AI-powered interview preparation platform.
+
+### Features
+- AI Questions
+- Voice Analysis
+- Feedback System
+- Dashboard Analytics
+
+### Tech Stack
+`Python` `Flask` `Gemini API` `MongoDB`
 
 ---
 
-### 🎓 AI Tutor Learning Website  
-Personalized AI-powered learning assistant.  
-**Tech Stack:** React, Node.js, Express, MongoDB, OpenAI API, Tailwind CSS  
-**Features:** Adaptive quizzes, AI Q&A, progress tracking, course recommendations  
+## 📊 IPL Data Analytics Dashboard
+Sports analytics dashboard using Power BI.
+
+### Features
+- Team Analysis
+- Player Statistics
+- Venue Insights
+- Match Trends
+
+### Tech Stack
+`Power BI` `Excel` `SQL`
 
 ---
 
-### 📊 IPL Data Analysis Dashboard (2008–2025)  
-Advanced sports analytics dashboard.  
-**Tech Stack:** Power BI, DAX, Data Modeling  
-**Features:** Team performance analysis, player statistics, venue insights, season comparisons  
+# 📚 React Learning Journey
 
----
-
-### 📈 HR Analytics Dashboard  
-Workforce and attrition analysis dashboard.  
-**Tech Stack:** Excel, Pivot Tables, Data Visualization  
-**Features:** Attrition rate analysis, salary insights, performance trends, KPI reporting  
-
----
-
-### ☁️ Smart Weather App  
-Real-time weather forecasting application.  
-**Tech Stack:** HTML, CSS, JavaScript, OpenWeather API  
-**Features:** 5-day forecast, live updates, responsive UI  
-
----
-
-### 💬 ChatGPT AI Clone  
-Conversational AI assistant with context-based responses.  
-**Tech Stack:** React, Node.js, Express, OpenAI API  
-**Features:** Multi-turn chat, chat history, custom prompts  
-
----
-
-### 🤖 AI Mock Interviewer  
-AI-driven mock interview platform.  
-**Tech Stack:** Python, Streamlit, Flask, Gemini API, MongoDB  
-**Features:** AI question generation, voice responses, feedback scoring dashboard  
-
-</details>
-
----
-
-# 🧑‍💻 Tech Stack
-
-## 💻 Programming & Development
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
-
-## 🌐 Web & Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
-
-## 📊 Data & Analytics
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-</p>
+| Day | Topics |
+|-----|--------|
+| Day 1 | React Intro, JSX, Components |
+| Day 2 | useState Hook |
+| Day 3 | Event Handling |
+| Day 4 | Form Handling |
+| Day 5 | Controlled Components |
+| Day 6 | Dynamic Rendering |
+| Day 7 | React Practice Projects |
 
 ---
 
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=komalgithub677&theme=github_dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=komalgithub677&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=komalgithub677&theme=github_dark">
-</p>
-
-<details>
-<summary>More Stats 📊</summary>
-
-<br>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=komalgithub677&theme=github_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=komalgithub677&theme=github_dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komalgithub677&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=komalgithub677&theme=github_dark&utcOffset=5.5">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalgithub677&layout=compact&theme=tokyonight" />
 </p>
 
-</details>
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=komalgithub677&theme=algolia&row=1&column=7" />
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=komalgithub677&theme=tokyo-night" />
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:knarawade4@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/komal-narawade-885720273/">🔗 LinkedIn</a> •
-  <a href="https://www.hackerrank.com/profile/knarawade4">💻 HackerRank</a>
+  <a href="mailto:knarawade4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/komal-narawade-885720273/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/knarawade4">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-⭐ **"Code with curiosity, build with purpose, and innovate with heart."** 💫
+# 💡 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<div align="center">
+
+# 🚀 “Code. Learn. Build. Repeat.” 🚀
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Thank+You+For+Visiting+💖;Keep+Learning+Keep+Growing+🌱;Future+Software+Engineer+🚀" />
+
+</div>
