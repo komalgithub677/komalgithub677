@@ -5,47 +5,50 @@
 <h1 align="center">✨ Hi 👋, I'm Komal Narawade ✨</h1>
 
 <h3 align="center">
-🚀 AI Engineer | Full Stack Developer | Data Analytics Enthusiast
+🚀 Java Full Stack Developer | AI Enthusiast | React Developer | Data Analytics Learner
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72D&center=true&vCenter=true&width=800&lines=Final+Year+Computer+Engineering+Student;React+%7C+Node.js+%7C+MongoDB+Developer;Building+AI+Powered+Applications;Learning+Something+New+Everyday+🚀;Future+Software+Engineer+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72D&center=true&vCenter=true&width=900&lines=Final+Year+Computer+Engineering+Student;Java+Full+Stack+Developer+💻;React+%7C+Node.js+%7C+MongoDB+Developer;Passionate+About+AI+%26+Modern+Web+Apps;Building+Projects+and+Learning+Everyday+🚀;Future+Software+Engineer+✨" />
 </p>
 
 ---
 
 <p align="center">
+
   <img src="https://komarev.com/ghpvc/?username=komalgithub677&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
   <img src="https://img.shields.io/github/followers/komalgithub677?style=for-the-badge&color=orange" />
 
   <img src="https://img.shields.io/github/stars/komalgithub677?style=for-the-badge&color=yellow" />
+
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 Final Year Computer Engineering Student  
-💻 AI + Full Stack Developer passionate about modern web technologies  
-📊 Skilled in SQL, Power BI, Excel, React, Node.js, MongoDB, and API Integration  
-⚡ Strong interest in AI Applications, Frontend Development & Data Analytics  
-🌱 Currently learning advanced React concepts and building real-world projects  
-🚀 Actively improving problem-solving and development skills every day  
+🎓 Final Year Computer Engineering Student (2026 Graduate)  
+💻 Passionate Java Full Stack Developer and React Enthusiast  
+⚡ Skilled in Java, JDBC, Servlets, JSP, React, Node.js, MongoDB, and MySQL  
+📊 Interested in Data Analytics using SQL, Power BI, and Excel  
+🤖 Exploring AI-powered applications and modern frontend technologies  
+🌱 Currently improving Full Stack Development and problem-solving skills  
+🚀 Building real-world projects and learning consistently every day  
 
 ---
 
 # 🧠 Currently Learning
 
 ```diff
-+ React JS Advanced Concepts
-+ Form Handling
-+ Event Handling
-+ useEffect Hook
-+ API Integration
++ Advanced React JS
++ Form Handling & Event Handling
++ Spring Boot
++ REST API Development
++ MongoDB Integration
++ Full Stack Project Development
 + Tailwind CSS
-+ Backend Development
-+ Full Stack Projects
++ System Design Basics
 ```
 
 ---
@@ -54,13 +57,35 @@
 
 <div align="center">
 
-## 💻 Languages
+## 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=java,js,python" />
 
 ---
 
 ## 🌐 Frontend Development
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+---
+
+## ⚙️ Java Full Stack Development
+
+<img src="https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Servlet-FF6F00?style=for-the-badge&logo=java&logoColor=white" />
+
+<img src="https://img.shields.io/badge/JSP-00599C?style=for-the-badge&logo=java&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 
 ---
 
@@ -75,8 +100,7 @@
 ---
 
 ## 📊 Data Analytics
-<img src="https://skillicons.dev/icons?i=github" />
-<br><br>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
 
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
@@ -85,7 +109,14 @@
 ---
 
 ## 🧰 Tools & Platforms
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
+
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 
 </div>
 
@@ -99,12 +130,12 @@
 
 ### ✨ Features
 - XP Tracking
-- Coding Challenges
 - Leaderboards
-- Course Learning
-- Assessment Recorder
 - Authentication System
-- Multi-language Support
+- Coding Challenges
+- Course Player
+- Assessment Recorder
+- Dynamic Dashboard
 
 ### 🛠️ Tech Stack
 `React` `Node.js` `MongoDB` `Tailwind CSS`
@@ -117,12 +148,62 @@ AI-powered interview preparation platform.
 
 ### ✨ Features
 - AI Question Generation
-- Voice-based Responses
-- Feedback Analysis
+- Voice Response Handling
 - Performance Dashboard
+- AI Feedback System
 
 ### 🛠️ Tech Stack
 `Python` `Flask` `Gemini API` `MongoDB`
+
+---
+
+## 💡 AI Powered Ideation Platform
+
+AI-based platform that helps users generate innovative ideas, project concepts, and smart business solutions.
+
+### ✨ Features
+- AI Idea Generation
+- Smart Prompt Suggestions
+- Real-time Recommendations
+- Project Planning Assistance
+- Dynamic User Dashboard
+
+### 🛠️ Tech Stack
+`React` `Node.js` `Express` `MongoDB` `OpenAI API`
+
+---
+
+## 📋 Project Management Platform
+
+Modern project management and collaboration platform for teams and organizations.
+
+### ✨ Features
+- Task Management
+- Team Collaboration
+- Project Tracking
+- Progress Monitoring
+- Real-time Updates
+- Dashboard Analytics
+
+### 🛠️ Tech Stack
+`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
+
+---
+
+## 🔐 Role-Based Access Control System
+
+Secure authentication and authorization system with role-based permissions.
+
+### ✨ Features
+- User Authentication
+- Role-Based Authorization
+- Admin & User Access Levels
+- JWT Authentication
+- Protected Routes
+- Secure APIs
+
+### 🛠️ Tech Stack
+`React` `Node.js` `Express` `MongoDB` `JWT`
 
 ---
 
@@ -131,10 +212,11 @@ AI-powered interview preparation platform.
 Advanced Power BI dashboard for IPL analytics.
 
 ### ✨ Features
-- Team Performance Insights
+- Team Analysis
 - Player Statistics
-- Venue Analysis
+- Venue Insights
 - Match Trends
+- Dynamic Visualization
 
 ### 🛠️ Tech Stack
 `Power BI` `Excel` `SQL`
@@ -143,13 +225,13 @@ Advanced Power BI dashboard for IPL analytics.
 
 ## 🌦️ Smart Weather App
 
-Responsive weather forecasting application.
+Responsive real-time weather application.
 
 ### ✨ Features
 - Live Weather Data
 - 5-Day Forecast
+- Location Search
 - Responsive UI
-- Location-based Search
 
 ### 🛠️ Tech Stack
 `HTML` `CSS` `JavaScript`
@@ -160,54 +242,41 @@ Responsive weather forecasting application.
 
 | Day | Topics Learned |
 |------|----------------|
-| Day 1 | React Introduction, JSX, Components |
-| Day 2 | Functional Components |
+| Day 1 | React Introduction, JSX |
+| Day 2 | Components & Functional Components |
 | Day 3 | useState Hook |
 | Day 4 | Event Handling |
 | Day 5 | Form Handling |
 | Day 6 | Controlled Components |
 | Day 7 | Dynamic Rendering |
-| Day 8 | React Practice Projects |
+| Day 8 | React Mini Projects |
 
 ---
 
-# 🚀 Daily Development Updates
+# 🚀 Recent Updates
 
 ## ✅ Recently Learned
-- Event Handling in React
+- React Event Handling
 - Form Handling
 - Controlled Components
-- State Management using useState
-- Dynamic UI Rendering
-
----
-
-# 📂 Project Structure
-
-```bash
-src/
-│
-├── components/
-├── App.jsx
-├── main.jsx
-├── App.css
-└── index.css
-```
+- Dynamic Rendering
+- Git & GitHub Workflow
+- README Customization
 
 ---
 
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komalgithub677&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=komalgithub677&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komalgithub677&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komalgithub677&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalgithub677&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalgithub677&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -268,6 +337,6 @@ src/
 
 # 🚀 “Code. Learn. Build. Repeat.” 🚀
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Thank+You+For+Visiting+💖;Keep+Learning+Keep+Growing+🌱;Future+Software+Engineer+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Thank+You+For+Visiting+💖;Keep+Learning+Keep+Growing+🌱;Future+Java+Full+Stack+Developer+🚀" />
 
 </div>
